@@ -1,1 +1,2 @@
 # Airbnb_Bookings-pandas-
+#You have been contracted to do seasonal work in Los Angeles during the Summer / Winter and are looking for flexible housing. You decide to explore listings on Airbnb and first need to decide whether to rent a room or an entire home / apartment. You first want to see the difference in the number of reviews between private rooms versus entire homes. Begin by importing the CSV dataset into a DataFrame and getting the mean number of reviews for entire homes and for private rooms.
